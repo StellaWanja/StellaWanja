@@ -1,4 +1,4 @@
-### Hi, I'm Stella Wanja | StylaDes 👋
+### Hi, I'm Stella Wanja | StylaDes <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
 
 I am a front-end developer and graphic designer from Kenya, passionate about React and Vanilla JavaScript and learning new languages and frameworks. When I'm not developing and building things, you'll probably find me writing an article, working on a knitting/crocheting project or drawing and designing vectors. You can check me out on Twitter at twitter.com/StylaDes.
 
