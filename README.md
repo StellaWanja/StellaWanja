@@ -4,5 +4,5 @@ I am a front-end developer and graphic designer from Kenya, passionate about Rea
 
 🧰 Toolbox
 
-<img src="https://cdn.worldvectorlogo.com/logos/html5.svg" alt="HTML5 Logo" width="50" height="50"/> <img src="https://cdn.worldvectorlogo.com/logos/css3.svg" alt="CSS Logo" width="50" height="50"/><img src="https://cdn.worldvectorlogo.com/logos/jscript.svg" alt="JavaScript Logo"/> <img src="https://cdn.worldvectorlogo.com/logos/react.svg" alt="CSS Logo" width="50" height="50"/>
+<img src="https://cdn.worldvectorlogo.com/logos/html5.svg" alt="HTML5 Logo" width="50" height="50"/> <img src="https://cdn.worldvectorlogo.com/logos/css3.svg" alt="CSS Logo" width="50" height="50"/><img src="https://cdn.worldvectorlogo.com/logos/Javascript.svg" alt="JavaScript Logo"/> <img src="https://cdn.worldvectorlogo.com/logos/react.svg" alt="CSS Logo" width="50" height="50"/>
 
