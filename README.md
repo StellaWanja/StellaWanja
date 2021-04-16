@@ -4,6 +4,8 @@ I am a front-end developer and graphic designer from Kenya, passionate about Rea
 
 🧰 Toolbox
 
-<img src="https://cdn.worldvectorlogo.com/logos/html5.svg" alt="HTML5 Logo" width="50" height="50"/> <img src="https://cdn.worldvectorlogo.com/logos/css3.svg" alt="CSS Logo" width="50" height="50"/><img src="https://cdn.worldvectorlogo.com/logos/javascript.svg" alt="JavaScript Logo"/> <img src="https://cdn.worldvectorlogo.com/logos/react.svg" alt="CSS Logo" width="50" height="50"/>
+<img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original-wordmark.svg" />
+
+
 
 [![StellaWanja's GitHub stats](https://github-readme-stats.vercel.app/api?username=StellaWanja)](https://github.com/anuraghazra/github-readme-stats)
