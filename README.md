@@ -15,11 +15,11 @@ I am a front-end developer and graphic designer from Kenya, passionate about Rea
 ### 📘 Latest Blog Articles
 
 <!-- BLOG-POST-LIST:START -->
+- [Projects Created: May - June 2021](https://stylades.hashnode.dev/projects-created-may-june-2021)
 - [Project Review: Website Design](https://stylades.hashnode.dev/project-review-website-design)
 - [5 reasons why I started a technical blog](https://stylades.hashnode.dev/5-reasons-why-i-started-a-technical-blog)
 - [My Personal Portfolio Website Plans](https://stylades.hashnode.dev/my-personal-portfolio-website-plans)
 - [My current project: Working with React JS for the first time](https://stylades.hashnode.dev/my-current-project-working-with-react-js-for-the-first-time)
-- [A guide to using JavaScript array map method](https://stylades.hashnode.dev/a-guide-to-using-javascript-array-map-method)
 <!-- BLOG-POST-LIST:END -->
 
 ▶ [...more blog articles](https://stylades.hashnode.dev)
