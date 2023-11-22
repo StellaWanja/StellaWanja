@@ -26,6 +26,6 @@ Design
 
 ### 📘 Latest Blog Articles
 
-<!-- BLOG-POST-LIST:START -->
-<!-- BLOG-POST-LIST:END -->
+<!-- BLOGPOSTS:START -->
+<!-- BLOGPOSTS:END -->
 
