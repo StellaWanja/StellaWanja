@@ -6,18 +6,15 @@ on:
     - cron: '0 0 * * *' # Runs Every Day
 
 jobs:
-  update_blogs:
+  update-readme-with-blog:
     name: "Update Blogs"
     runs-on: ubuntu-latest
     steps:
-      - name: "📥  Fetching Repository Contents"
-        uses: actions/checkout@main
-
-      - name: "📚  Hashnode Updater"
-        uses: "varunsridharan/action-hashnode-blog@main"
+      - uses: actions/checkout@main
+      - uses: gautamkrishnar/blog-post-workflow@master
         with:
-          USERNAME: 'stylades' # Hashnode Username
-          BLOG_URL: 'https://stylades.hashnode.dev/' # Blog URL
-          COUNT: 5 # MAX Visisble
-        env:
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          comment_tag_name: "BLOGPOSTS"
+          feed_list: "https://stylades.hashnode.dev/rss.xml"
+          template: "$newline - $randomEmoji(💯,🔥,💫,🚀,🌮) [$title]($url)"
+          commit_message: "recent posts section updated"
+          gh_token: ${{ secrets.GITHUB_TOKEN }}
