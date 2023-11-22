@@ -6,12 +6,6 @@ I am a software developer and graphic designer from Kenya, passionate about Reac
 
 <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-plain-wordmark.svg" width="50" height="50"/> <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-plain-wordmark.svg" width="50" height="50"/> <img src="https://github.com/devicons/devicon/blob/master/icons/bootstrap/bootstrap-plain-wordmark.svg" width="50" height="50"/> <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-plain.svg" width="50" height="50"/> <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original.svg" width="50" height="50"/> <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-plain-wordmark.svg" width="50" height="50"/> <img src="https://github.com/devicons/devicon/blob/master/icons/angularjs/angularjs-plain.svg" width="50" height="50"/> <img src="https://github.com/devicons/devicon/blob/master/icons/figma/figma-original.svg" width="50" height="50"/> <img src="https://github.com/devicons/devicon/blob/master/icons/illustrator/illustrator-plain.svg" width="50" height="50"/> <img src="https://github.com/devicons/devicon/blob/master/icons/photoshop/photoshop-plain.svg" width="50" height="50"/> <img src="https://github.com/devicons/devicon/blob/master/icons/dot-net/dot-net-plain-wordmark.svg" width="50" height="50"/>  <img src="https://github.com/devicons/devicon/blob/master/icons/dotnetcore/dotnetcore-original.svg" width="50" height="50"/> 
 
-## &#x1f4c8; My GitHub Stats
-
-[![StellaWanja's GitHub stats](https://github-readme-stats.vercel.app/api?username=StellaWanja)](https://github.com/anuraghazra/github-readme-stats)
-
----
-
 ### 📘 Latest Blog Articles
 
 <!-- BLOG-POST-LIST:START -->
