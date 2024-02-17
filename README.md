@@ -27,9 +27,9 @@ Design
 ### 📘 Latest Blog Articles
 
 <!-- BLOGPOSTS:START -->
- - 🔥 [A guide to React Refs](https://stylades.hashnode.dev/a-guide-to-react-refs)
- - 🌮 [Angular Material: Handling Validation for Autocomplete Inputs &lpar;Part 2&rpar;](https://stylades.hashnode.dev/angular-material-handling-validation-for-autocomplete-inputs-part-2)
- - 🔥 [Angular Material: Handling Validation for Autocomplete Inputs &lpar;Part 1&rpar;](https://stylades.hashnode.dev/angular-material-handling-validation-for-autocomplete-inputs-part-1)
- - 🌮 [Projects Created: May - June 2021](https://stylades.hashnode.dev/projects-created-may-june-2021)
- - 💯 [Project Review: Website Design](https://stylades.hashnode.dev/project-review-website-design)<!-- BLOGPOSTS:END -->
+ - 🔥 [Hoisting in JavaScript](https://stylades.hashnode.dev/hoisting-in-javascript)
+ - 🌮 [A guide to React Refs](https://stylades.hashnode.dev/a-guide-to-react-refs)
+ - 🔥 [Angular Material: Handling Validation for Autocomplete Inputs &lpar;Part 2&rpar;](https://stylades.hashnode.dev/angular-material-handling-validation-for-autocomplete-inputs-part-2)
+ - 🌮 [Angular Material: Handling Validation for Autocomplete Inputs &lpar;Part 1&rpar;](https://stylades.hashnode.dev/angular-material-handling-validation-for-autocomplete-inputs-part-1)
+ - 💯 [Projects Created: May - June 2021](https://stylades.hashnode.dev/projects-created-may-june-2021)<!-- BLOGPOSTS:END -->
 
