@@ -3,18 +3,20 @@ name: "📚 Blog Updater"
 on:
   workflow_dispatch:
   schedule:
-    - cron: '0 0 * * *' # Runs Every Day
+    - cron: '0 0 * * *' # Runs every hour, on the hour.
 
 jobs:
   update-readme-with-blog:
     name: "Update Blogs"
     runs-on: ubuntu-latest
     steps:
-      - uses: actions/checkout@main
-      - uses: gautamkrishnar/blog-post-workflow@master
+      - name: 'Fetch Repository Contents'
+        uses: actions/checkout@main
+
+      - name: 'Hashnode Blog Action'
+        uses: Sachin-chaurasiya/hashnode-blog-action@v0.0.8
         with:
-          comment_tag_name: "BLOGPOSTS"
-          feed_list: "https://stylades.hashnode.dev/rss.xml"
-          template: "$newline - $randomEmoji(💯,🔥,💫,🚀,🌮) [$title]($url)"
-          commit_message: "recent posts section updated"
-          gh_token: ${{ secrets.GITHUB_TOKEN }}
+          HASHNODE_PUBLICATION_NAME: 'https://stylades.hashnode.dev'
+          FORMAT: 'list'
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
