@@ -11,9 +11,9 @@ Portfolio Link: https://stylades.netlify.app/
 ### 📘 Latest Blog Articles
 
 <!-- BLOGPOSTS:START -->
- - 🔥 [Props vs State in React](https://stylades.hashnode.dev/props-vs-state-in-react)
+ - 🔥 [Dark / Light Toggle Mode in NextJS](https://stylades.hashnode.dev/dark-light-toggle-mode-in-nextjs)
  - 🌮 [Hoisting in JavaScript](https://stylades.hashnode.dev/hoisting-in-javascript)
  - 🔥 [A guide to React Refs](https://stylades.hashnode.dev/a-guide-to-react-refs)
- - 🌮 [Angular Material: Handling Validation for Autocomplete Inputs &lpar;Part 2&rpar;](https://stylades.hashnode.dev/angular-material-handling-validation-for-autocomplete-inputs-part-2)
- - 💯 [Angular Material: Handling Validation for Autocomplete Inputs &lpar;Part 1&rpar;](https://stylades.hashnode.dev/angular-material-handling-validation-for-autocomplete-inputs-part-1)<!-- BLOGPOSTS:END -->
+ - 🌮 [A guide to using the JavaScript reduce array method](https://stylades.hashnode.dev/a-guide-to-using-the-javascript-reduce-array-method)
+ - 💯 [5 reasons why I started a technical blog](https://stylades.hashnode.dev/5-reasons-why-i-started-a-technical-blog)<!-- BLOGPOSTS:END -->
 
